@@ -1,4 +1,4 @@
-# ¿Con que sensores se ceunta en los laboratorios de la Santoto?
+# ¿Con que sensores se cuenta en los laboratorios de la Santoto?
 
 Los laboratorios de energias, robotica y electronica cuentan con algunos sensores ya sea pensados para la practica o proyectos creados por los mismos estudiantes, acontinuacion se describira su funcionamiento básico,  una referencia y aplicaciones.
 
