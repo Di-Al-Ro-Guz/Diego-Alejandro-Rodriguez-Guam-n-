@@ -31,7 +31,7 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 
 ---
 ## 4. Sensor infrarrojo 
-![Imagen del sensor infrarrojo]()
+![Imagen del sensor infrarrojo](Sensor_infrarojo.jpg)
 
 - **Descripción:** Utiliza luz infrarroja para detectar presencia u objetos. Puede funcionar por reflexión o interrupción de haz.
 - **Aplicaciones:** Control remoto, detección de obstáculos en robots, sistemas de conteo.
