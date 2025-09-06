@@ -5,7 +5,7 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 ---
 
 ## 1. Sensor ultrasónico
-![Imagen del sensor ultrasónico](Sensor_ultrasonico.jpg)
+![Imagen del sensor ultrasónico](Sensor_ultrasonido.jpg)
 
 - **Descripción:** Emite ondas de ultrasonido y mide el tiempo que tardan en regresar al chocar con un objeto. Permite calcular la distancia.
 - **Aplicaciones:** Robótica, medición de nivel de líquidos, detección de obstáculos.
@@ -13,26 +13,8 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 
 ---
 
-## 2. Sensor de bloqueo de puertas
-![Imagen del sensor de bloqueo de puertas]()
-
-- **Descripción:** Detecta si una puerta está abierta o cerrada. Puede funcionar con interruptores magnéticos (reed switch) o sensores mecánicos.
-- **Aplicaciones:** Sistemas de seguridad, control de acceso, alarmas.
-- **Referencia:** [Door Sensor Basics](https://components101.com/switches/magnetic-reed-switch)
-
----
-
-## 3. Sensor infrarrojo 
-![Imagen del sensor infrarrojo]()
-
-- **Descripción:** Utiliza luz infrarroja para detectar presencia u objetos. Puede funcionar por reflexión o interrupción de haz.
-- **Aplicaciones:** Control remoto, detección de obstáculos en robots, sistemas de conteo.
-- **Referencia:** [IR Sensor Guide](https://lastminuteengineers.com/ir-sensor-arduino-tutorial/)
-
----
-
-## 4. Sensor de presión de agua
-[IImagen del sensor precion de agua](Sensor_fluido.jpg)
+## 2. Sensor de presión de agua
+![Imagen del sensor precion de agua](Sensor_Fluido.jpg)
 
 - **Descripción:** Convierte la presión del agua en una señal eléctrica proporcional. 
 - **Aplicaciones:** Sistemas de bombeo, monitoreo de redes hidráulicas, electrodomésticos.
@@ -40,7 +22,7 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 
 ---
 
-## 5. Sensor de posición
+## 3. Sensor de posición
 ![Imagen del sensor de posición](Sensor_de_posicion.jpg)
 
 - **Descripción:** Detecta la posición angular o lineal de un objeto. Puede basarse en potenciómetros, encoders o sensores magnéticos.
@@ -48,3 +30,17 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 - **Referencia:** [Position Sensor Overview](https://www.elprocus.com/what-are-position-sensors-types-and-their-applications/)
 
 ---
+## 4. Sensor infrarrojo 
+![Imagen del sensor infrarrojo]()
+
+- **Descripción:** Utiliza luz infrarroja para detectar presencia u objetos. Puede funcionar por reflexión o interrupción de haz.
+- **Aplicaciones:** Control remoto, detección de obstáculos en robots, sistemas de conteo.
+- **Referencia:** [IR Sensor Guide](https://lastminuteengineers.com/ir-sensor-arduino-tutorial/)
+  
+---
+## 5. Sensor de bloqueo de puertas
+![Imagen del sensor de bloqueo de puertas]()
+
+- **Descripción:** Detecta si una puerta está abierta o cerrada. Puede funcionar con interruptores magnéticos (reed switch) o sensores mecánicos.
+- **Aplicaciones:** Sistemas de seguridad, control de acceso, alarmas.
+- **Referencia:** [Door Sensor Basics](https://components101.com/switches/magnetic-reed-switch)
