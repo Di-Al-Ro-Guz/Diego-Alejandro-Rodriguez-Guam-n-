@@ -5,7 +5,7 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 ---
 
 ## 1. Sensor ultrasónico
-![Imagen del sensor ultrasónico]()
+![Imagen del sensor ultrasónico](Sensor_ultrasonico.jpg)
 
 - **Descripción:** Emite ondas de ultrasonido y mide el tiempo que tardan en regresar al chocar con un objeto. Permite calcular la distancia.
 - **Aplicaciones:** Robótica, medición de nivel de líquidos, detección de obstáculos.
@@ -32,7 +32,7 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 ---
 
 ## 4. Sensor de presión de agua
-[IImagen del sensor precion de agua]()
+[IImagen del sensor precion de agua](Sensor_fluido.jpg)
 
 - **Descripción:** Convierte la presión del agua en una señal eléctrica proporcional. 
 - **Aplicaciones:** Sistemas de bombeo, monitoreo de redes hidráulicas, electrodomésticos.
@@ -41,7 +41,7 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 ---
 
 ## 5. Sensor de posición
-![Imagen del sensor de posición]()
+![Imagen del sensor de posición](Sensor_de_posicion.jpg)
 
 - **Descripción:** Detecta la posición angular o lineal de un objeto. Puede basarse en potenciómetros, encoders o sensores magnéticos.
 - **Aplicaciones:** Control de motores, robótica, automatización industrial.
