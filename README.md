@@ -13,15 +13,15 @@ Los laboratorios de energias, robotica y electronica cuentan con algunos sensore
 
 ---
 
-## 2. Sensor de presión de agua
-![Imagen del sensor precion de agua](Sensor_Fluido.jpg)
+## 2. Sensor de nivel de fluido
+![Imagen del sensor fluid level sensor](Sensor_Fluido.jpg)
 
 - **Descripción:** Un Fluid Level Sensor es un dispositivo diseñado para detectar el nivel de un líquido dentro de un contenedor (tanques, depósitos, tuberías, etc.). Su principio de funcionamiento depende del tipo de sensor:
 De flotador: Usa un flotador que sube o baja con el nivel del líquido, activando un interruptor mecánico o magnético.
 Capacitivo: Detecta la variación de capacitancia entre electrodos cuando cambia la presencia de líquido.
 Ultrasónico u óptico: Envía una señal (sonido o luz) y mide la reflexión para determinar si hay líquido en cierto punto.Convierte la presión del agua en una señal eléctrica proporcional. 
 - **Aplicaciones:** Sistemas de bombeo, monitoreo de redes hidráulicas, electrodomésticos.
-- **Referencia:** [Water Pressure Sensor](https://components101.com/sensors/water-pressure-sensor)
+- **Referencia:** [Water Pressure Sensor](https://components101.com/sensors/water-pressure-sensor )
 
 ---
 
